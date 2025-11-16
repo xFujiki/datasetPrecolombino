@@ -1,0 +1,270 @@
+{
+  "dataset": [
+    {
+      "image": "wari_0001.png",
+      "culture": "Wari",
+      "description": "Fragmento de textil en técnica de tapicería.Presenta dos franjas horizontales, cada una con tres parejas de cráneos enfrentados. Cultura Wari, 550-1000 d.C., costa sur del Perú. Santiago, Colección privada (193 × 95 cm).",
+      "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+    {
+      "image": "inka_0001.png",
+      "culture": "Inka",
+      "description": "Fragmento de túnica-unku en fibra de camélido con motivos de estrella de ocho puntas y breves franjas que dan la sensación de movimiento. Estilo inka provincial. Costa Sur de Perú ca. 1400-1532 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 1770 (66 × 52,7 cm).",
+      "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "wari_0002.png",
+      "culture": "Wari",
+      "description": "Fragmento de textil en técnica de tapicería.Presenta dos franjas horizontales, cada una con tres parejas de cráneos enfrentados. Cultura Wari, 550-1000 d.C., costa sur del Perú. Santiago, Colección privada (193 × 95 cm).",
+      "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "wari_0003.png",
+      "culture": "Wari",
+      "description": "Fragmento de tapicería, probablemente del borde inferior de una túnica o banda-faja con la imagen de un personaje con un tumi (cuchillo) en mano. Moche-Wari, costa norte del Perú ca. 600-800 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 0935 (11 × 25 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "wari_0004.png",
+      "culture": "Wari",
+      "description": "Fragmento de tapicería, probablemente del borde inferior de una túnica o banda-faja con la imagen de un personaje con un tumi (cuchillo) en mano. Moche-Wari, costa norte del Perú ca. 600-800 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 0935 (11 × 25 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "wari_0005.png",
+      "culture": "Wari",
+      "description": "Fragmento de tapicería, probablemente del borde inferior de una túnica o banda-faja con la imagen de un personaje con un tumi (cuchillo) en mano. Moche-Wari, costa norte del Perú ca. 600-800 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 0935 (11 × 25 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "wari_0006.png",
+      "culture": "Wari",
+      "description": "Fragmento de tapicería, probablemente del borde inferior de una túnica o banda-faja con la imagen de un personaje con un tumi (cuchillo) en mano. Moche-Wari, costa norte del Perú ca. 600-800 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 0935 (11 × 25 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "quechua_0001.png",
+      "culture": "Quechua",
+      "description": "Lliklla (chal femenino) hecha con fibra de camélido. Algunas de sus franjas presentan motivos de animales y flores. Quechua, Huaracondo, Perú, siglo XIX. Santiago, colección Museo dela Merced, mm-049 (96 × 74 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "quechua_0002.png",
+      "culture": "Quechua",
+      "description": " Poncho de fibra de camélido con motivos geométricos y flecadura. Región de Ocongate, Perú, siglo XX. Santiago, colección Museo de la Merced, mm-083 (109 × 123 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "chancay_0001.png",
+      "culture": "Chancay",
+      "description": " Fragmento de textil de fibra de camélido y algodón, construido con la técnica de tapiz ranurada. Presenta una serie de motivos humanos entre cuadrados continuos y líneas zigzagueantes. Chancay, costa central de Perú, ca. 1000-1400 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 0948 (81 × 62,5 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "chancay_0002.png",
+      "culture": "Chancay",
+      "description": " Fragmento de textil de fibra de camélido y algodón, construido con la técnica de tapiz ranurada. Presenta una serie de motivos humanos entre cuadrados continuos y líneas zigzagueantes. Chancay, costa central de Perú, ca. 1000-1400 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 0948 (81 × 62,5 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "chancay_0003.png",
+      "culture": "Chancay",
+      "description": " Fragmento de textil de fibra de camélido y algodón, construido con la técnica de tapiz ranurada. Presenta una serie de motivos humanos entre cuadrados continuos y líneas zigzagueantes. Chancay, costa central de Perú, ca. 1000-1400 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 0948 (81 × 62,5 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "chancay_0004.png",
+      "culture": "Chancay",
+      "description": " Fragmento de textil de fibra de camélido y algodón, construido con la técnica de tapiz ranurada. Presenta una serie de motivos humanos entre cuadrados continuos y líneas zigzagueantes. Chancay, costa central de Perú, ca. 1000-1400 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 0948 (81 × 62,5 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "paracas_0001.png",
+      "culture": "Paracas",
+      "description": "Fragmento textil de algodón con bordado polícromo realizado con hilos de fibras de camélido y decorado con la imagen de un ser fantástico. Paracas Necrópolis, costa sur de Perú, ca. 100 a.C.-200 d.C. Santiago, colección Museo Chileno de Arte Precolombino, 3445 (13 × 5 cm).  ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "inka_0002.png",
+      "culture": "Inka",
+      "description": "Bolsa-chuspa Inka, 1400-1532 d.C., norte de Chile. Tejido en técnica de faz de urdimbre con fibra de camélido. Santiago, colección Museo Chileno de Arte Precolombino, mas-1777 16 × 20 cm. / Asa: 54 cm.",
+	  "style": "geométrico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "inka_0003.png",
+      "culture": "Inka",
+      "description": "Bolsa-chuspa Inka, 1400-1532 d.C., norte de Chile. Tejido en técnica de faz de urdimbre con fibra de camélido. Santiago, colección Museo Chileno de Arte Precolombino, mas-3115 13,5 × 16,5 cm. / Asa: 53 cm.",
+	  "style": "geométrico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "chimu_0001.png",
+      "culture": "Chimu",
+      "description": "Fragmento textil, posiblemente un parche de una camisita hecho en algodón y fibra de camélido. Presenta la imagen de un ave bicéfala. Cultura Chimú-Lambayeque, ca. 900-1200 d.C. Costa norte o central del Perú. Santiago, colección Museo Chileno de Arte Precolombino, 0355-0356 (12 × 36 cm). ",
+	  "style": "iconográfico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "inka_0004.png",
+      "culture": "Inka",
+      "description": "Bolsa-chuspa del período inka (1400-1532). Tarapacá, Chile. Realizada en tapicería con fibra de camélido; diseño ajedrezado, colores negro, blanco y rojo. Santiago, colección Museo Chileno de Arte Precolombino, 2736-1 (20,2 × 10,7 cm). ",
+	  "style": "geométrico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "inka_0005.png",
+      "culture": "Inka",
+      "description": "Bolsa-chuspa del período inka (1400-1532 d. c.), tejido a telar con ligamento de tela con fibra de camélido; urdimbre y trama discontinuas. Santiago, colección Museo Chileno de Arte Precolombino, 2811 (18,9 × 17 cm). ",
+	  "style": "geométrico",
+      "source": "Contactos.Textiles coloniales de los Andes"
+    },
+	{
+      "image": "arica_0001.png",
+      "culture": "Arica",
+      "description": "Ilusión espacial. En la inkuña MChAP 2483 se leen al menos cinco planos: el superior definido por la presencia de las franjas con figuras en blanco (kenko); el siguiente, de pampas en ocre; el tercero correspondiente a las listas rojas sobre la pampa ocre; el cuarto, los listados laterales en fondo rojo, y el quinto nivel, a la pampa central del textil que se aprecia como zona de mayor profundidad. ",
+	  "style": "geométrico",
+      "source": "REGISTRO CROMÁTICO EN TEXTILES DE LA CULTURA ARICA EN EL PERÍODO INTERMEDIO TARDÍO: CASO INKUÑAS"
+    },
+	{
+      "image": "arica_0002.png",
+      "culture": "Arica",
+      "description": "Sustracción de color. En la inkuña MChAP 0789 las pampas de color ocre se leen como un fondo continuo aunque están conformadas por cuatro matices distintos.",
+	  "style": "geométrico",
+      "source": "REGISTRO CROMÁTICO EN TEXTILES DE LA CULTURA ARICA EN EL PERÍODO INTERMEDIO TARDÍO: CASO INKUÑAS"
+    },
+	{
+      "image": "arica_0003.png",
+      "culture": "Arica",
+      "description": "Detalle franja en urdimbres complementarias, inkuña 2885 MChAP. Los hilos de urdimbre blanca establecen una conexión entre los dos ambientes.",
+	  "style": "iconográfico",
+      "source": "REGISTRO CROMÁTICO EN TEXTILES DE LA CULTURA ARICA EN EL PERÍODO INTERMEDIO TARDÍO: CASO INKUÑAS"
+    },
+	{
+      "image": "nazca_0001.png",
+      "culture": "Nazca",
+      "description": "Tela de urdimbres y tramas discontinuas, cultura Nasca.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "nazca_0002.png",
+      "culture": "Nazca",
+      "description": "Tela de urdimbres y tramas discontinuas, cultura Nasca.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "nazca_0003.png",
+      "culture": "Nazca",
+      "description": "Tela de urdimbres y tramas discontinuas, cultura Nasca.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "nazca_0004.png",
+      "culture": "Nazca",
+      "description": "Tela de urdimbres y tramas discontinuas, cultura Nasca.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "nazca_0005.png",
+      "culture": "Nazca",
+      "description": "Tela de urdimbres y tramas discontinuas, cultura Nasca.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "nazca_0006.png",
+      "culture": "Nazca",
+      "description": "Tela de urdimbres y tramas discontinuas, cultura Nasca.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "nazca_0007.png",
+      "culture": "Nazca",
+      "description": "Tela de urdimbres y tramas discontinuas, cultura Nasca.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "chancay_0005.png",
+      "culture": "Chancay",
+      "description": "Textil emblemático, cultura Chancay.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "wari_0007.png",
+      "culture": "Wari",
+      "description": "Fragmento de camisa - unku (detalle), cultura Wari.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "wari_0008.png",
+      "culture": "Wari",
+      "description": "Fragmento de camisa - unku (detalle), cultura Wari.",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "chavin_0001.png",
+      "culture": "Chavin",
+      "description": "Fragmento de textil pintado",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "paracas_0002.png",
+      "culture": "Paracas",
+      "description": "Banda (detalle)",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "paracas_0003.png",
+      "culture": "Paracas",
+      "description": "Banda (detalle)",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "paracas_0004.png",
+      "culture": "Paracas",
+      "description": "Banda (detalle)",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "paracas_0005.png",
+      "culture": "Paracas",
+      "description": "Borde de manto (fragmento)",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    },
+	{
+      "image": "paracas_0006.png",
+      "culture": "Paracas",
+      "description": "Borde de manto (fragmento)",
+	  "style": "iconográfico",
+      "source": "Awakhuni Tejiendo la Historia Andina En memoria de John Víctor Murra (1916 - 2006)"
+    }
+  ]
+}
